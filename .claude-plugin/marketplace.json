@@ -1,5 +1,7 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "android-reverse-engineering-skill",
+  "description": "Claude Code plugins for Android reverse engineering",
   "owner": {
     "name": "Simone Avogadro"
   },
